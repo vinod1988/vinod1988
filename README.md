@@ -19,8 +19,8 @@
 
 - 📫 connect with me at **vish.vino@gmail.com** or any of my linked socials below.
 
-- ⚡ Fun fact **I started coding on my Android Device using Termux, until I got an Acer Nitro 5 in January 2021.**. Don't give yourself excuses about not having equipments to become good.
-<hr />
+<!-- - ⚡ Fun fact **I started coding on my Android Device using Termux, until I got an Acer Nitro 5 in January 2021.**. Don't give yourself excuses about not having equipments to become good.
+ --><hr />
 
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
