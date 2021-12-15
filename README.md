@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinod Vishwakarma </h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Product Manage & Technical Architect</h3>
 
 ---
 
 - 🔭 I’m currently working for [Big projects](https://alimus.ca/)
 
-- 🌱 I’m currently learning **Svelte Kit, Angular, React, Vanilla JS, Python, Golang, C, C++, Rust, Figma and other technologies and software.**
+- 🌱 I’m currently learning **Python, Angular, React, Vanilla JS, Figma and other technologies and software.**
 
 - 👯 I’m looking to collaborate on **any projects that use Python**
 
@@ -25,18 +25,19 @@
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
 
-<a href="https://twitter.com/in_vvishwakarma" target="blank">
-    <img align="center" src="svgs/twitter.svg" alt="in_vvishwakarma" height="30" width="40" />
-</a>
-
 <a href="https://www.linkedin.com/in/vvishwakarma/" target="blank">
-    <img align="center" src="svgs/linkedin.svg" alt="vvishwakarma" height="30" width="40" />
+    <img align="center" src="svgs/linkedin.svg" alt="vvishwakarma" height="40" width="50" />
 </a>
 
-<!-- <a href="https://stackoverflow.com/users/13390795" target="blank">
-    <img align="center" src="svgs/stackoverflow.svg" alt="13390795" height="30" width="40" />
+<a href="https://twitter.com/in_vvishwakarma" target="blank">
+    <img align="center" src="svgs/twitter.svg" alt="in_vvishwakarma" height="40" width="50" />
 </a>
 
+<a href="https://stackoverflow.com/users/3683571/mobility" target="blank">
+    <img align="center" src="svgs/stackoverflow.svg" alt="13390795" height="40" width="50" />
+</a>
+
+<!-- 
 <a href="https://fb.com/raprocks9421" target="blank">
     <img align="center" src="svgs/facebook.svg" alt="raprocks9421" height="30" width="40" />
 </a>
