@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vvishwakarma/" target="blank">
-    <img align="center" src="svgs/linkedin.svg" alt="raprocks" height="30" width="40" />
+    <img align="center" src="svgs/linkedin.svg" alt="vvishwakarma" height="30" width="40" />
 </a>
 
 <!-- <a href="https://stackoverflow.com/users/13390795" target="blank">
