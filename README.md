@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working for [Big projects](https://alimus.ca/)
+- 🔭 I’m currently working for [Big projects](https://www.att.com/)
 
 - 🌱 I’m currently learning **Python, Angular, React, Vanilla JS, Figma and other technologies and software.**
 
