@@ -60,6 +60,29 @@
 <details>
 <summary>Languages and Tools</summary>
 <p align="left">
+
+
+
+<a href="https://developer.apple.com/swift" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple ios" width="40" height="40"/>
+</a>
+
+<a href="https://www.swift.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
+</a>
+
+<a href="https://www.android.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</a>
+
+<a href="https://flutter.dev" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+</a>
+
+<a href="https://developer.apple.com/develop" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" alt="objc" width="40" height="40"/>
+</a>
+
 <a href="https://angular.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
 </a>
