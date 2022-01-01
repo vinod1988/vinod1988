@@ -56,8 +56,11 @@
 <hr />
 
 <!-- <details> -->
-<summary>Languages, Tools & Tech Stack</summary>
-<p align="left">
+<!-- <summary>Languages, Tools & Tech Stack</summary>
+
+ -->
+<h1>Languages, Tools & Tech Stack</h1>
+ <p align="left">
 
 
 
