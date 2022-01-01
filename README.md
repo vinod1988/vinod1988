@@ -55,8 +55,8 @@
 
 <hr />
 
-<details>
-<summary>Languages and Tools</summary>
+<!-- <details> -->
+<summary>Languages, Tools & Tech Stack</summary>
 <p align="left">
 
 
