@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Vinod Vishwakarma </h1>
 <h3 align="center">Software Developer, Product Manager & Technical Architect</h3>
 
@@ -20,7 +21,8 @@
 - 📫 connect with me at **vish.vino@gmail.com** or any of my linked socials below.
 
 <!-- - ⚡ Fun fact **I started coding on my Android Device using Termux, until I got an Acer Nitro 5 in January 2021.**. Don't give yourself excuses about not having equipments to become good.
- --><hr />
+ -->
+ <hr />
 
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
@@ -37,24 +39,20 @@
     <img align="center" src="svgs/stackoverflow.svg" alt="13390795" height="40" width="50" />
 </a>
 
-<!-- 
-<a href="https://fb.com/raprocks9421" target="blank">
-    <img align="center" src="svgs/facebook.svg" alt="raprocks9421" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/__rap_rocks__" target="blank">
-    <img align="center" src="svgs/instagram.svg" alt="__rap_rocks__" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/rahulhimesh09" target="blank">
-    <img align="center" src="svgs/hackerrank.svg" alt="rahulhimesh09" height="30" width="40" />
-</a>
-
-<a href="https://www.codechef.com/users/raprocks" target="blank">
-    <img align="center" src="svgs/codechef.svg" alt="raprocks" height="30" width="40" />
-</a>
-  -->
 </p>
+
+<hr />
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinod1988&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="vinod1988" />
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinod1988&show_icons=true&theme=synthwave&locale=en" alt="vinod1988" />
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinod1988&theme=dark" alt="vinod1988" />
+</p>
+
 <hr />
 
 <details>
@@ -201,12 +199,15 @@
 
 </p>
 </details>
-<hr />
+<hr/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinod1988&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="vinod1988" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinod1988&show_icons=true&theme=synthwave&locale=en" alt="vinod1988" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinod1988&theme=dark" alt="vinod1988" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinod1988&label=Profile%20Visits&color=694c94&style=flat" alt="vinod1988" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinod1988&label=Profile%20Visits&color=694c94&style=flat" alt="vinod1988" />
+</p>
+
+
+
+
