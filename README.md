@@ -27,9 +27,9 @@
 <h3 align="center">Connect with me over at</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vvishwakarma/" target="blank">
+<!-- <a href="https://www.linkedin.com/in/vvishwakarma/" target="blank">
     <img align="center" src="svgs/linkedin.svg" alt="vvishwakarma" height="40" width="50" />
-</a>
+</a> -->
 
 <a href="https://twitter.com/in_vvishwakarma" target="blank">
     <img align="center" src="svgs/twitter.svg" alt="in_vvishwakarma" height="40" width="50" />
