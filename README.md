@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinod Vishwakarma </h1>
-<h3 align="center">Technical Architect & Mobile SME</h3>
+<h3 align="center">Technical Architect & Engineering Manager & Mobile SME</h3>
 
 ---
 
