@@ -4,20 +4,30 @@
 
 ---
 
-🔭 Currently Working On: Large-scale enterprise projects.
+## 🔭 Currently Working On  
+**Large-scale enterprise projects.**  
 
-🌱 Actively Learning: Artificial Intelligence (AI), Python and emerging technologies.
+## 🌱 Actively Learning  
+**Artificial Intelligence (AI),** `Python`, and emerging technologies.  
 
-👯 Open to Collaboration: Excited to contribute to projects leveraging Python, AI, and scalable architectures.
+## 👯 Open to Collaboration  
+Excited to contribute to projects leveraging `Python`, `AI`, and scalable architectures.  
 
-🤝 Seeking Support: Open to discussions and contributions on my projects.
+## 🤝 Seeking Support  
+Open to discussions and contributions on [my projects](https://github.com/vinod1988?tab=repositories).  
 
-👨‍💻 Explore My Work: All my projects are available on GitHub.
+## 👨‍💻 Explore My Work  
+All my projects are available on [GitHub](https://github.com/vinod1988?tab=repositories).  
 
-📝 Technical Writing & Insights: I regularly share articles on software development, AI, and emerging technologies at my blog.
+## 📝 Technical Writing & Insights  
+I regularly share articles on software development, `AI`, and emerging technologies at [my blog](https://vinod1988.github.io/).  
 
-💬 Expertise & Interests:
-Feel free to ask me about Node.js, React Native, Flutter, MERN Stack, iOS, Android, Python, Ubuntu, Web Frontend & Backend, REST APIs, UI/UX, AI, and any technology I’m currently exploring.
+## 💬 Expertise & Interests  
+Feel free to ask me about:  
+- `Node.js`, `React Native`, `Flutter`, `MERN Stack`  
+- `iOS`, `Android`, `Python`, `Ubuntu`  
+- Web Frontend & Backend, `REST APIs`, `UI/UX`, `AI`  
+- Any technology I’m currently exploring.  
 
 - 📫 connect with me at **vish.vino@gmail.com** or any of my linked socials below.
 
