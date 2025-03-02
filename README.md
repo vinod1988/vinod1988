@@ -4,9 +4,9 @@
 
 ---
 
-🔭 Currently Working On: Large-scale enterprise projects, including those with AT&T.
+🔭 Currently Working On: Large-scale enterprise projects.
 
-🌱 Actively Learning: Artificial Intelligence (AI), Python, Angular, React, Vanilla JavaScript, Figma, and emerging technologies.
+🌱 Actively Learning: Artificial Intelligence (AI), Python and emerging technologies.
 
 👯 Open to Collaboration: Excited to contribute to projects leveraging Python, AI, and scalable architectures.
 
