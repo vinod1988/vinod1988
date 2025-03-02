@@ -4,19 +4,20 @@
 
 ---
 
-- 🔭 I’m currently working for [Big projects](https://www.att.com/)
+🔭 Currently Working On: Large-scale enterprise projects, including those with AT&T.
 
-- 🌱 I’m currently learning **Python, Angular, React, Vanilla JS, Figma and other technologies and software.**
+🌱 Actively Learning: Artificial Intelligence (AI), Python, Angular, React, Vanilla JavaScript, Figma, and emerging technologies.
 
-- 👯 I’m looking to collaborate on **any projects that use Python**
+👯 Open to Collaboration: Excited to contribute to projects leveraging Python, AI, and scalable architectures.
 
-- 🤝 I’m looking for help with [any of my projects](https://github.com/vinod1988?tab=repositories)
+🤝 Seeking Support: Open to discussions and contributions on my projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinod1988?tab=repositories](https://github.com/vinod1988?tab=repositories)
+👨‍💻 Explore My Work: All my projects are available on GitHub.
 
-- 📝 I regularly write articles on [https://vinod1988.github.io/](https://vinod1988.github.io/)
+📝 Technical Writing & Insights: I regularly share articles on software development, AI, and emerging technologies at my blog.
 
-- 💬 Ask me about **iOS, Android, Flutter, Python, Ubuntu, Web Frontend and Backend, NodeJS, REST API, UI/UX and anything about what I am learning.**
+💬 Expertise & Interests:
+Feel free to ask me about Node.js, React Native, Flutter, MERN Stack, iOS, Android, Python, Ubuntu, Web Frontend & Backend, REST APIs, UI/UX, AI, and any technology I’m currently exploring.
 
 - 📫 connect with me at **vish.vino@gmail.com** or any of my linked socials below.
 
